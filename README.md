@@ -4,7 +4,7 @@
 - Working: Cryptography-application Lab 
 - Team: Dropper-Lab(Sec)
 - Learning: Cyber-security [Web, System, Server(develop, security), Digital Forensic, Cryptography application]
-- Era: Web, Digital Forensic
+- Main Learning: Web, Digital Forensic
 
 <!--
 **isanghyeon/isanghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
