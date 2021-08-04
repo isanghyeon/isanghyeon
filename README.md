@@ -2,9 +2,9 @@
 
 - The current school: Soonchunhyang University
 - Working: Soonchunhyang University Cryptography-Application Lab
-- Education: KITRI BoB 10th Vulnerability Analysis track 
+- Education Program: KITRI BoB 10th Vulnerability Analysis track 
 - Team: Dropper-Lab(Sec)
-- Learning: Cyber-security [Web, System, Server(develop, security), Digital Forensic, Cryptography application]
+- Learning: Cyber-Security [Web, System, Server(develop, security), Digital Forensic, Cryptography application]
 - Main Learning: Web, Cryptography
 
 <!--
