@@ -1,7 +1,7 @@
 #### Isanghyeon
 
 - The current school: Soonchunhyang University
-- Working: Cryptography-application Lab 
+- Working: Soonchunhyang University Cryptography-Application Lab 
 - Team: Dropper-Lab(Sec)
 - Learning: Cyber-security [Web, System, Server(develop, security), Digital Forensic, Cryptography application]
 - Main Learning: Web, Cryptography
