@@ -1,23 +1,10 @@
 #### Isanghyeon
 
-- The current school: Soonchunhyang University
-- Working: Soonchunhyang University Cryptography-Application Lab
-- Education Program: KITRI BoB 10th Vulnerability Analysis track 
-- Team: Dropper-Lab(Sec)
-- Learning: Cyber-Security [Web, System, Server(develop, security), Digital Forensic, Cryptography application]
-- Main Learning: Web, Cryptography
+- 🚌 I’m currently  current school: Soonchunhyang University
+- 🔭 I’m currently working on: Soonchunhyang University Cryptography-Application Lab
+- 🌱 I’m currently Education Program: KITRI BoB 10th Vulnerability Analysis track 
+- 💬 I’m currentlyTeam: Dropper-Lab(Sec)
+- 📫 I’m currently learning: Cyber-Security [Web, System, Server(develop, security), Digital Forensic, Cryptography application]
 
-<!--
-**isanghyeon/isanghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanghyeon)](https://github.com/anuraghazra/github-readme-stats)
