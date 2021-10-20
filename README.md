@@ -11,7 +11,7 @@
 
 ![followers](https://img.shields.io/github/followers/isanghyeon?style=social)
 <a href="https://isanghyeon.github.io/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://isanghyeon.github.io/" style="height: auto; margin-left: 10px; margin-right: 10px;" /> </a>
-<a href="mailto:cpd995@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cpd995@gmail.com" style="height: auto; margin-left: 10px; margin-right: 10px;" /> </a>
+<a href="mailto:dltkdgus8350@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltkdgus8350@gmail.com" style="height: auto; margin-left: 10px; margin-right: 10px;" /> </a>
 
 <h3 align="center">🔨 Tech Stack 🔨</h3>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
