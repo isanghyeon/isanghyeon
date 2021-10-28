@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=isanghyeon&show_icons=true&theme=radical) 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanghyeon&layout=compact&theme=dracula)](https://github.com/isanghyeon)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanghyeon&layout=compact&theme=dracula)(https://github.com/isanghyeon)
     
 <hr/>
 
