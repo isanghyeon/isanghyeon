@@ -28,10 +28,10 @@
 </div>
 <div align="left">
 <h3>Who am I</h3>
-    <p>- 🚌 I’m currently  current school: <strong>Soonchunhyang University</strong></p>
-    <p>- 🔭 I’m currently working on: <strong>Soonchunhyang University Cryptography Application Lab, Researcher</strong></p>
-    <p>- 🌱 I’m currently Education Program: <strong>KITRI BoB 10th Vulnerability Analysis track</strong></p>
-    <p>- 💬 I’m currentlyTeam: <strong>Dropper-Lab(Sec)</strong></p>
-    <p>- 📫 I’m currently learning: <strong>Cyber-Security, Computer Science</strong></p>
+    <p>- 🚌  I’m currently  current school: <strong>Soonchunhyang University</strong></p>
+    <p>- 🔭  I’m currently working on: <strong>Soonchunhyang University Cryptography Application Lab, Researcher</strong></p>
+    <p>- 🌱  I’m currently Education Program: <strong>KITRI BoB 10th Vulnerability Analysis track</strong></p>
+    <p>- 💬  I’m currentlyTeam: <strong>Dropper-Lab(Sec)</strong></p>
+    <p>- 📫  I’m currently learning: <strong>Cyber-Security, Computer Science</strong></p>
 </div>
 
