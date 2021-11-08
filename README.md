@@ -23,16 +23,17 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+    
+<hr/>
 </div>
+<div align="left">
+<h3>Who am I</h3>
 
+<p>- 🚌 I’m currently  current school: **Soonchunhyang University**</p>
+<p>- 🔭 I’m currently working on: **Soonchunhyang University Cryptography Application Lab**</p>
+<p>- 🌱 I’m currently Education Program: **KITRI BoB 10th Vulnerability Analysis track**</p>
+<p>- 💬 I’m currentlyTeam: **Dropper-Lab(Sec)**</p>
+    <p>- 📫 I’m currently learning: **Cyber-Security, Computer Science**</p>
 
-
-
-#### Who am I
-
-- 🚌 I’m currently  current school: **Soonchunhyang University**
-- 🔭 I’m currently working on: **Soonchunhyang University Cryptography Application Lab**
-- 🌱 I’m currently Education Program: **KITRI BoB 10th Vulnerability Analysis track**
-- 💬 I’m currentlyTeam: **Dropper-Lab(Sec)**
-- 📫 I’m currently learning: **Cyber-Security, Computer Science**
+</div>
 
