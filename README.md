@@ -1,6 +1,6 @@
 <div align="center"><h1>👋 Hi, there! 👋</h1></div>
 
-<div align="center">
+<div align="center" class="row">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=isanghyeon&show_icons=true&theme=radical) 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanghyeon&layout=compact&theme=dracula)](https://github.com/isanghyeon)
