@@ -45,8 +45,8 @@
 
 | Institution | Program | Role | Period |
 |-------------|---------|------|--------|
-| **Soonchunhyang University** | Dept. of Information Security | Bachelor's Degree | 2020.03 ~ 2026.08 |
-| **KITRI Best of the Best 10th** | Vulnerability Analysis Track | Student | 2021.07 ~ 2022.03 |
+| **Soonchunhyang University** | Dept. of Information Security Engineering | Bachelor's Degree | 2020.03 ~ 2026.08 |
+| **KITRI Best of the Best 10th** | Vulnerability Analysis Track | Trainee | 2021.07 ~ 2022.03 |
 
 <hr/>
 
@@ -54,7 +54,8 @@
 
 | Certification | Credential ID | Issued | Expires |
 |---------------|---------------|--------|---------|
-| **OffSec Certified Professional+ (OSCP+)** | 181628664 | 2026.05 | - |
+| **OffSec Certified Professional (OSCP)** | 181636340 | 2026.05 | - |
+| **OffSec Certified Professional+ (OSCP+)** | 181628664 | 2026.05 | 2029.05 |
 | **네트워크관리사 2급** | NT2051672 | 2025.05 | - |
 
 <hr/>
