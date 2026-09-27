@@ -9,7 +9,7 @@
 <a href="mailto:dltkdgus8350@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltkdgus8350@gmail.com" style="height: auto; margin-left: 10px; margin-right: 10px;" /> </a>
 <a href="https://www.linkedin.com/in/sanghyeon-lee-510698243/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;" /> </a>
 
-<h3 align="center">🔨 Tech Stack 🔨</h3>
+<h3 align="center">Tech Stack</h3>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -22,17 +22,17 @@
 
 <hr/>
 
-<h3 align="center">🎯 Interests 🎯</h3>
+<h3 align="center">Interests</h3>
 
-- Web Application Security
-- Internal Network Penetration Testing (Linux / Windows, etc.)
-- Windows Active Directory
-- Vulnerability Assessment
-- Security Research
+- 🌐 Web Application Security
+- 🕵️ Internal Network Penetration Testing (Linux / Windows, etc.)
+- 🪟 Windows Active Directory
+- 🔍 Vulnerability Assessment
+- 🔬 Security Research
 
 <hr/>
 
-<h3 align="center">💼 Career 💼</h3>
+<h3 align="center">Career</h3>
 
 | Organization | Team | Position | Period |
 |--------------|------|----------|--------|
@@ -41,7 +41,7 @@
 
 <hr/>
 
-<h3 align="center">🎓 Education 🎓</h3>
+<h3 align="center">Education</h3>
 
 | Institution | Program | Role | Period |
 |-------------|---------|------|--------|
@@ -50,7 +50,7 @@
 
 <hr/>
 
-<h3 align="center">🎖️ Certification 🎖️</h3>
+<h3 align="center">Certification</h3>
 
 | Certification | Credential ID | Issued | Expires |
 |---------------|---------------|--------|---------|
@@ -59,7 +59,7 @@
 
 <hr/>
 
-<h3 align="center">🛡️ CVE 🛡️</h3>
+<h3 align="center">CVE</h3>
 
 | CVE ID | Target | CWE | CVSS:3.1 | Date |
 |--------|--------|-----|----------|------|
