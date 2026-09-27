@@ -22,6 +22,24 @@
 
 <hr/>
 
+<h3 align="center">💼 Career 💼</h3>
+
+| Organization | Team | Position | Period |
+|--------------|------|----------|--------|
+| **ENKI Whitehat** | VA Center RedOps 2 Team | Senior Researcher | 2023.01 ~ Present |
+| **Soonchunhyang University** — Cryptography Application Lab | - | Intern | 2020.10 ~ 2022.12 |
+
+<hr/>
+
+<h3 align="center">🎓 Education 🎓</h3>
+
+| Institution | Program | Role | Period |
+|-------------|---------|------|--------|
+| **Soonchunhyang University** | Dept. of Information Security | Student | 2020.03 ~ 2026.08 |
+| **KITRI Best of the Best 10th** | Vulnerability Analysis Track | Student | 2021.07 ~ 2022.03 |
+
+<hr/>
+
 <h3 align="center">🎖️ Certification 🎖️</h3>
 
 | Certification | Credential ID | Issued | Expires |
