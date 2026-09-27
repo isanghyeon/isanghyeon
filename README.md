@@ -64,7 +64,7 @@
 | CVE ID | Target | CWE | CVSS:3.1 | Date |
 |--------|--------|-----|----------|------|
 | **CVE-2026-XXXXX** | [Admidio](https://github.com/Admidio/admidio/security/advisories/GHSA-c86v-h8qw-rxjp) | CWE-79(Cross-Site scripting) | 8.1 High | 2026.xx |
-| **CVE-2026-92139** | [Jenkins Plugin (Bitbucket Push and Pull Request)](https://www.jenkins.io/security/advisory/2026-09-16/#SECURITY-3980) | CWE-918 (SSRF) | 6.5 Medium | 2026.09 |
+| **CVE-2026-92139** | [Jenkins Plugin<br>Bitbucket Push and Pull Request](https://www.jenkins.io/security/advisory/2026-09-16/#SECURITY-3980) | CWE-918 (SSRF) | 6.5 Medium | 2026.09 |
 | **CVE-2026-86864** | [pgAdmin](https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/) | CWE-22 (Path Traversal)<br>CWE-88 (Argument Injection) | 8.8 High | 2026.09 |
 | **CVE-2026-86863** | [pgAdmin](https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/) | CWE-290<br>CWE-807 | 9.8 Critical | 2026.09 |
 | **CVE-2026-82655** | [Admidio](https://github.com/Admidio/admidio/security/advisories/GHSA-p5cp-mhvx-w392) | CWE-89 (SQL Injection) | 7.5 High | 2026.08 |
