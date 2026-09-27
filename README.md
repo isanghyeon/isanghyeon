@@ -44,8 +44,8 @@
 
 | Certification | Credential ID | Issued | Expires |
 |---------------|---------------|--------|---------|
-| **OffSec Certified Professional+ (OSCP+)** | 181628664 | 2026.05 | 2029.05 |
-| **네트워크관리사 2급** | NT2051672 | 2025.05 | 2030.05 |
+| **OffSec Certified Professional+ (OSCP+)** | 181628664 | 2026.05 | - |
+| **네트워크관리사 2급** | NT2051672 | 2025.05 | - |
 
 <hr/>
 
