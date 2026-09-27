@@ -62,7 +62,9 @@
 
 <h3 align="center">CVE</h3>
 
-> **Note** — `Assigned`: CVE assigned to my report. `Duplicate`: independently reported, but a duplicate of an already-known issue (credited as a reporter in the vendor advisory).
+> **Note** 
+> — `Assigned`: CVE assigned to my report. 
+> — `Duplicate`: independently reported, but a duplicate of an already-known issue (credited as a reporter in the vendor advisory).
 
 | CVE ID | Target | CWE | CVSS:3.1 | Date | Note |
 |--------|--------|-----|----------|------|------|
