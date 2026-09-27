@@ -23,5 +23,14 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
     
 <hr/>
+<h3 align="center"> CVE </h3>
+| CVE ID | Category | Target | CWE | CVSS:3.1 | DATE |  
+|--------|----------|--------|-------------------|
+| **CVE-2026-XXXXX** | Web | [Admidio](https://github.com/Admidio/admidio/security/advisories/GHSA-c86v-h8qw-rxjp) | 8.1 High | 2026.xx |
+| **CVE-2026-92139** | Web | [Jenkins Plugin(Bitbucket Push and Pull Request)](https://www.jenkins.io/security/advisory/2026-09-16/#SECURITY-3980) | 6.5 Medium | 2026.09 |
+| **CVE-2026-86864** | Web | [pgAdmin](https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/) | 8.8 High | | 2026.09 |
+| **CVE-2026-86863** | Web | [pgAdmin](https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/) | 9.8 Critical | | 2026.09 |
+| **CVE-2026-82655** | Web | [Admidio](https://github.com/Admidio/admidio/security/advisories/GHSA-p5cp-mhvx-w392) | CWE-89(SQL Injection) | 7.5 High | 2026.08 |
+
 </div>
 
