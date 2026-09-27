@@ -22,6 +22,16 @@
 
 <hr/>
 
+<h3 align="center">🎯 Interests 🎯</h3>
+
+- Web Application Security
+- Internal Network Penetration Testing (Linux / Windows, etc.)
+- Windows Active Directory
+- Vulnerability Assessment
+- Security Research
+
+<hr/>
+
 <h3 align="center">💼 Career 💼</h3>
 
 | Organization | Team | Position | Period |
