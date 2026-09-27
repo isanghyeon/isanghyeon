@@ -60,7 +60,7 @@
 
 <hr/>
 
-<h3 align="center">CVE</h3>
+<h3 align="center">CVE & Credits</h3>
 
 > **Note** <br>
 > `Assigned`: CVE assigned to my report.<br>
