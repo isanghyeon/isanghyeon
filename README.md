@@ -36,7 +36,7 @@
 
 | Organization | Team | Position | Period |
 |--------------|------|----------|--------|
-| **ENKI Whitehat** | VA Center RedOps Team 2 | Senior RedTeam Operator | 2023.01 ~ Present |
+| **ENKI Whitehat** | VA Center RedOps Team 2 | RedTeam Operator | 2023.01 ~ Present |
 | **Soonchunhyang University** | Cryptography Application Lab | Intern | 2020.10 ~ 2022.12 |
 
 <hr/>
